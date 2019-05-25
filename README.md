@@ -1,6 +1,6 @@
-1:04 (tempo de vídeo)
+# Projeto jogo Pedra, papel e tesoura.
 
-# CSS-HTML-JS
-RPS
+
+Desenvolvido utilizando JavaScript, HTML e CSS
 
 
