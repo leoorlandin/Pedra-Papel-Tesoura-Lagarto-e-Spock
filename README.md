@@ -32,3 +32,12 @@ Acompanhe o fluxograma a seguir:
 
 Caso ainda não tenha ficado claro com o fluxograma, há sempre a explicação do nosso querido [Sheldon Cooper](https://www.youtube.com/watch?v=Kov2G0GouBw). :laughing:
 
+## Técnologias utilizadas
+
+- [NodeJS](https://nodejs.org/en/) - Para desenvolvimento do server side da aplicação
+- HTML/CSS - Para criação e estilização dos conteúdos da aplicação
+
+## Necessário para utilizar a aplicação
+
+- [NodeJS](https://nodejs.org/en/)
+- [NPM](https://www.npmjs.com/) ou qualquer outro gerenciador de pacotes de sua preferência
