@@ -48,8 +48,8 @@ function venceu(escolhaDoUsuario, escolhaDoComputador) {
     userScore++
     userScore_span.innerHTML = userScore
     computerScore_span.innerHTML = computerScore
-    const smallUserWord = "user".fontsize(3).sub()
-    const smallCompWord = "comp".fontsize(3).sub()
+    const smallUserWord = "usuário".fontsize(3).sub()
+    const smallCompWord = "máquina".fontsize(3).sub()
     result_p.innerHTML = `${converterPalavra(escolhaDoUsuario)}${smallUserWord} vence ${converterPalavra(escolhaDoComputador)}${smallCompWord}. Portanto: você venceu!`
     document.getElementById(escolhaDoUsuario).classList.add('green-glow')
     setTimeout(function () { document.getElementById(escolhaDoUsuario).classList.remove('green-glow') }, 1000) //cria o brilho verde ao vencer
@@ -59,16 +59,16 @@ function perdeu(escolhaDoUsuario, escolhaDoComputador) {
     computerScore++
     userScore_span.innerHTML = userScore
     computerScore_span.innerHTML = computerScore
-    const smallUserWord = "user".fontsize(3).sub()
-    const smallCompWord = "comp".fontsize(3).sub()
+    const smallUserWord = "usuário".fontsize(3).sub()
+    const smallCompWord = "máquina".fontsize(3).sub()
     result_p.innerHTML = `${converterPalavra(escolhaDoUsuario)}${smallUserWord} perde para ${converterPalavra(escolhaDoComputador)}${smallCompWord}. Portanto: você perdeu!`
     document.getElementById(escolhaDoUsuario).classList.add('red-glow')
     setTimeout(function () { document.getElementById(escolhaDoUsuario).classList.remove('red-glow') }, 1000) //cria o brilho vermelho ao perder
 }
 
 function empatou(escolhaDoUsuario, escolhaDoComputador) {
-    const smallUserWord = "user".fontsize(3).sub()
-    const smallCompWord = "comp".fontsize(3).sub()
+    const smallUserWord = "usuário".fontsize(3).sub()
+    const smallCompWord = "máquina".fontsize(3).sub()
     result_p.innerHTML = converterPalavra(escolhaDoUsuario) + smallUserWord + " é igual a  " + converterPalavra(escolhaDoComputador) + smallCompWord + ". Portanto: é um empate!"
     document.getElementById(escolhaDoUsuario).classList.add('gray-glow')
     setTimeout(function () { document.getElementById(escolhaDoUsuario).classList.remove('gray-glow') }, 1000) //cria o brilho cinza ao empatar
