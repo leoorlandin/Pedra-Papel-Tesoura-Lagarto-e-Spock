@@ -5,7 +5,7 @@ Uma nova abordagem para o clássico jogo "Pedra, papel e tesoura". :space_invade
 
 ## Informações sobre o jogo
 
-O a aplicação tem como objetivo reproduzir o jogo (Pedra, papel e tesoura) que já é conhecido por todos.
+A aplicação tem como objetivo reproduzir o jogo (Pedra, papel e tesoura) que já é conhecido por todos.
 
 No entanto, a aplicação tem a introdução de dois novos elementos às regras do jogo, sendo esses: "Lagarto e Spock"
 
@@ -30,5 +30,5 @@ Acompanhe o fluxograma a seguir:
 
 ![Fluxograma do jogo](https://i.pinimg.com/originals/cb/b5/50/cbb550e22809c444e2c133508dab2a68.jpg)
 
-Caso ainda não tenha ficado claro com o fluxograma, há sempre a explicação do nosso querido ([Sheldon Cooper](https://www.youtube.com/watch?v=Kov2G0GouBw)). :laughing:
+Caso ainda não tenha ficado claro com o fluxograma, há sempre a explicação do nosso querido [Sheldon Cooper](https://www.youtube.com/watch?v=Kov2G0GouBw). :laughing:
 
