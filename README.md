@@ -37,7 +37,7 @@ Caso ainda não tenha ficado claro com o fluxograma, há sempre a explicação d
 ## Iniciando o projeto
 
 - clone o repositório `git clone https://github.com/leoorlandin/Pedra-Papel-Tesoura-Lagarto-e-Spock`
-- vá até a raiz do projeto `cd /Foodfy`
+- vá até a raiz do projeto `cd /Pedra-Papel-Tesoura-Lagarto-e-Spock`
 - `npm install` para a instalação de todas as dependências da aplicação
 - `npm start` para inicar o servidor e visualizar a aplicação em sua porta 5000
 
