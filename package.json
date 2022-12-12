@@ -4,7 +4,7 @@
   "description": "Uma nova abordagem para o clássico jogo \"Pedra, papel e tesoura\". :space_invader:",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
